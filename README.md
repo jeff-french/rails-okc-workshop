@@ -13,7 +13,7 @@
 
 ## Workshop
 * 9:30 am - 5:30 pm on Saturday, March 30, 2019
-* Work through the [curriculum](http://docs.railsbridge.org/intro-to-rails/) at your own pace.
+* Work through the [curriculum](http://techlahoma-railsbridge.herokuapp.com/intro-to-rails/intro-to-rails) at your own pace.
 * Ask a coach for help if you get stuck.
 * Take a break whenever you need to!
 * We'll have presentations and breaks scheduled throughout the day.
