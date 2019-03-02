@@ -8,7 +8,7 @@
 * Installation instructions:
   * Mac/Linux - follow the [instructions](http://docs.railsbridge.org/installfest) as written
   * Windows
-    * Start with the [updated instructions](https://github.com/techlahoma/talks/blob/master/railsbridge/installfest-windows.md)
+    * Start with the [updated instructions](https://github.com/techlahoma/railsbridge/blob/master/railsbridge/installfest-windows.md)
     * Continue with the [original instructions](http://docs.railsbridge.org/installfest/create_a_heroku_account) on the Heroku step
 
 ## Workshop
