@@ -6,10 +6,10 @@
 * 5:30 pm - 7:30 pm on Friday, March 29, 2019
 * Come and go - get there when you can and leave when you're done!
 * Installation instructions:
-  * Mac/Linux - follow the [instructions](http://docs.railsbridge.org/installfest) as written
+  * Mac/Linux - follow the [instructions](http://techlahoma-railsbridge.herokuapp.com/installfest) as written
   * Windows
     * Start with the [updated instructions](https://github.com/techlahoma/railsbridge/blob/master/railsbridge/installfest-windows.md)
-    * Continue with the [original instructions](http://docs.railsbridge.org/installfest/create_a_heroku_account) on the Heroku step
+    * Continue with the [original instructions](http://techlahoma-railsbridge.herokuapp.com/installfest/create_a_heroku_account) on the Heroku step
 
 ## Workshop
 * 9:30 am - 5:30 pm on Saturday, March 30, 2019
