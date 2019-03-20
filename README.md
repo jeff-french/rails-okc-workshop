@@ -6,7 +6,11 @@
 * 5:30 pm - 7:30 pm on Friday, March 29, 2019
 * Come and go - get there when you can and leave when you're done!
 * Installation instructions:
-  * Mac/Linux - follow the [instructions](http://techlahoma-railsbridge.herokuapp.com/installfest) as written
+  * Mac/Linux - follow the [instructions](http://techlahoma-railsbridge.herokuapp.com/installfest) as written except for:
+    * Step 7 of OS X RVM (Install Ruby); use ruby version 2.5.3
+      * `rvm install 2.5.3`
+      * `rvm use 2.5.3`
+      * `rvm --default use 2.5.3`
   * Windows
     * Start with the [updated instructions](https://github.com/techlahoma/railsbridge/blob/master/railsbridge/installfest-windows.md)
     * Continue with the [original instructions](http://techlahoma-railsbridge.herokuapp.com/installfest/create_a_heroku_account) on the Heroku step
