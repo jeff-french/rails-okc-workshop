@@ -1,6 +1,13 @@
-# [Rails OKC Workshop](https://rails-okc.herokuapp.com)
+# Rails OKC Workshop
 
-[Info](https://rails-okc.herokuapp.com/info) on location, schedule, and food is on our website.
+Information on location, schedule, and food is on [our website](https://rails-okc.herokuapp.com/).
+
+## Slack
+* Sign up at http://slack.techlahoma.org
+* Follow the instructions in the email
+* Click Channels in the left sidebar
+* Search for the [#rails-okc-workshop](https://techlahoma.slack.com/messages/rails-okc-workshop/) channel
+* Click the Join Channel button
 
 ## InstallFest
 * 5:30 pm - 7:30 pm on Friday, March 29, 2019
@@ -13,7 +20,7 @@
       * `rvm --default use 2.5.3`
   * Windows
     * Start with the [updated instructions](https://github.com/techlahoma/railsbridge/blob/master/railsbridge/installfest-windows.md)
-    * Continue with the [original instructions](http://techlahoma-railsbridge.herokuapp.com/installfest/create_a_heroku_account) on the Heroku step
+    * Continue with the [original instructions](http://techlahoma-railsbridge.herokuapp.com/installfest/configure_git)
 
 ## Workshop
 * 9:30 am - 5:30 pm on Saturday, March 30, 2019
