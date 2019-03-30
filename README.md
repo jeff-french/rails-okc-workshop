@@ -21,6 +21,7 @@ Information on location, schedule, and food is on [our website](https://rails-ok
   * Windows
     * Start with the [updated instructions](https://github.com/techlahoma/railsbridge/blob/master/railsbridge/installfest-windows.md)
     * Continue with the [original instructions](http://techlahoma-railsbridge.herokuapp.com/installfest/configure_git)
+    * When you get to the step that instructs you to run `rails s`, if you get an error about sqlite3 failing to load a file, follow the instructions in this [Stack Overflow answer](https://stackoverflow.com/a/50490399/188600)
 
 ## Workshop
 * 9:30 am - 5:30 pm on Saturday, March 30, 2019
